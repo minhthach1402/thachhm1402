@@ -1,0 +1,54 @@
+:root {
+  --text-color: gray;
+  --bg-cl-logo: #dfeaff;
+  --cl-logo: #157eff;
+  --cl-banner: white;
+  --bg-color: #f4f5f8;
+  --btn-color: #157eff;
+  --border-color: #d4d4d4;
+  --btn-essential-color: #333333;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+h3{
+  font-size: 40px;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+li{
+  font-weight: bold;
+}
+
+span {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
